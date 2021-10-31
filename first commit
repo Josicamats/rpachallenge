@@ -1,0 +1,23 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   ExcelActivities.py
+#	new file:   LICENSE
+#	new file:   PdfActivities.py
+#	new file:   README.md
+#	new file:   SendEmail.py
+#	new file:   WebNavigation.py
+#	new file:   conda.yaml
+#	new file:   devdata/env.json
+#	new file:   report
+#	new file:   robot.yaml
+#	new file:   task.py
+#
+# Untracked files:
+#	.gitignore
